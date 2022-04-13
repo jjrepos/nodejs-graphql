@@ -1,0 +1,27 @@
+{
+    "server": {
+        "port": 8080,
+        "env": "dev"
+    },
+    "db": {
+        "hosts": "bdhost1,dbhost2,dbhost3",
+        "dbName": "graphql-api",
+        "replicaSet": "mongodb_replicaset01",
+        "user": "graphql-api",
+        "password": "p%40ssw0rd",
+        "poolSize": 30,
+        "debug": false,
+        "authSource": "test"
+    },
+    "logLevels": {
+        "Database": "info",
+        "ApiServer": "debug",
+        "TransportationTypeService": "trace",
+        "FacilityResolver": "debug",
+        "FacilityService": "debug",
+        "FacilityRepositoryImpl": "debug",
+        "AmenityRepositoryImpl": "debug",
+        "AmenityTypeRepositoryImpl": "debug",
+        "OperationTypeRepositoryImpl": "debug"
+    }
+}

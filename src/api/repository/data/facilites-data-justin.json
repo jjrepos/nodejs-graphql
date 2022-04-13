@@ -1,0 +1,1983 @@
+[
+    {
+        "name": "ARLNGTN-CRYSTLSQ",
+        "_id": "CRYS",
+        "campusCode": "CRYS",
+        "address": {
+            "street1": "1550 CRYSTAL DRIVE",
+            "street2": null,
+            "city": "ARLINGTON",
+            "stateCode": "VA",
+            "zipCode": "22202",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0497901,
+                38.8594935
+            ]
+        }
+    },
+    {
+        "name": "COLGE PARK-RSRCH PRK",
+        "_id": "CPMD",
+        "campusCode": "CPMD",
+        "address": {
+            "street1": "5825 UNIVERSITY RESEARCH COURT",
+            "street2": null,
+            "city": "COLLEGE PARK",
+            "stateCode": "MD",
+            "zipCode": "20740",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -76.921900,
+                38.971200
+            ]
+        }
+    },
+    {
+        "name": "URBANDALE-100TH ST",
+        "_id": "IOWA",
+        "campusCode": "IOWA",
+        "address": {
+            "street1": "2900 100TH STREET",
+            "street2": null,
+            "city": "URBANDALE",
+            "stateCode": "IA",
+            "zipCode": "50322",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -93.7566027,
+                41.6215639
+            ]
+        }
+    },
+    {
+        "name": "WSHDC-M ST",
+        "_id": "WADC",
+        "campusCode": "WADC",
+        "address": {
+            "street1": "20 M STREET, S.E.",
+            "street2": null,
+            "city": "WASHINGTON",
+            "stateCode": "DC",
+            "zipCode": "20003",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.007770,
+                38.876920
+            ]
+        }
+    },
+    {
+        "name": "LEAVENWORTH-2ND ST",
+        "_id": "LVKS",
+        "campusCode": "LVKS",
+        "address": {
+            "street1": "1122 N. 2ND ST.",
+            "street2": null,
+            "city": "LEAVENWORTH",
+            "stateCode": "KS",
+            "zipCode": "66048",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -94.9122801,
+                39.3287744
+            ]
+        }
+    },
+    {
+        "name": "MIAMI-EXEC",
+        "_id": "MIFL",
+        "campusCode": "MIFL",
+        "address": {
+            "street1": "8300 NW 53RD ST.",
+            "street2": "SUITE 350-033",
+            "city": "MIAMI",
+            "stateCode": "FL",
+            "zipCode": "33166",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -80.3317117,
+                25.8205067
+            ]
+        }
+    },
+    {
+        "name": "WSHDC-15TH ST",
+        "_id": "WASH",
+        "campusCode": "WASH",
+        "address": {
+            "street1": "901 15TH STREET N.W.",
+            "street2": null,
+            "city": "WASHINGTON",
+            "stateCode": "DC",
+            "zipCode": "20005",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.033080,
+                38.901530
+            ]
+        }
+    },
+    {
+        "name": "BELCAMP-ABERDEN 4692",
+        "_id": "ABMD",
+        "campusCode": "ABMD",
+        "address": {
+            "street1": "4692 MILLENNIUM DRIVE",
+            "street2": null,
+            "city": "BELCAMP",
+            "stateCode": "MD",
+            "zipCode": "21017",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -76.238000,
+                39.467130
+            ]
+        }
+    },
+    {
+        "name": "BELCAMP-ABERDEN 4694",
+        "_id": "ABRN",
+        "campusCode": "ABRN",
+        "address": {
+            "street1": "4694 MILLENNIUM DRIVE",
+            "street2": null,
+            "city": "BELCAMP",
+            "stateCode": "MD",
+            "zipCode": "21017",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -76.236890,
+                39.467530
+            ]
+        }
+    },
+    {
+        "name": "ANNAPLSJUNC-NBP 304",
+        "_id": "NBPS",
+        "campusCode": "NBPS",
+        "address": {
+            "street1": "304 SENTINAL DRIVE",
+            "street2": "FLOORS 1, 3, 4, 5",
+            "city": "ANNAPOLIS JUNCTION",
+            "stateCode": "MD",
+            "zipCode": "20701",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ANNAPLSJUNC-NBP 308",
+        "_id": "NBP3",
+        "campusCode": "NBP3",
+        "address": {
+            "street1": "308 SENTINAL DRIVE",
+            "street2": null,
+            "city": "ANNAPOLIS JUNCTION",
+            "stateCode": "MD",
+            "zipCode": "20701",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "NORFOLK-LAKE WRIGHT",
+        "_id": "NFLK",
+        "campusCode": "NFLK",
+        "address": {
+            "street1": "5800 LAKE WRIGHT DRIVE",
+            "street2": null,
+            "city": "NORFOLK",
+            "stateCode": "VA",
+            "zipCode": "23502",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ALEXAND-WALKER 6361",
+        "_id": "ALEX",
+        "campusCode": "ALEX",
+        "address": {
+            "street1": "6361 WALKER LANE",
+            "street2": "METROPARK 6, FLOOR 1, 5-7",
+            "city": "ALEXANDRIA",
+            "stateCode": "VA",
+            "zipCode": "22310",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "STFFRD-AQUIA",
+        "_id": "STVG",
+        "campusCode": "STVG",
+        "address": {
+            "street1": "475 AQUIA TOWNE CENTER DRIVE",
+            "street2": null,
+            "city": "STAFFORD",
+            "stateCode": "VA",
+            "zipCode": "22554",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "NEW YRK-AVE OF AMER",
+        "_id": "NYCA",
+        "campusCode": "NYCA",
+        "address": {
+            "street1": "1133 AVENUE OF THE AMERICAS",
+            "street2": null,
+            "city": "NEW YORK",
+            "stateCode": "NY",
+            "zipCode": "10036",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ROME-AVERY LN",
+        "_id": "ROME",
+        "campusCode": "ROME",
+        "address": {
+            "street1": "500 AVERY LANE",
+            "street2": null,
+            "city": "ROME",
+            "stateCode": "NY",
+            "zipCode": "13441",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "HOUSTON-BAY AREA",
+        "_id": "HSTN",
+        "campusCode": "HSTN",
+        "address": {
+            "street1": "2525 BAY AREA BLVD",
+            "street2": null,
+            "city": "HOUSTON",
+            "stateCode": "TX",
+            "zipCode": "77058",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "TROY-BIG BEAVER",
+        "_id": "TROY",
+        "campusCode": "TROY",
+        "address": {
+            "street1": "101 W BIG BEAVER ROAD",
+            "street2": null,
+            "city": "TROY",
+            "stateCode": "MI",
+            "zipCode": "48084",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "HONOLULU-BISHOP ST",
+        "_id": "HNLU",
+        "campusCode": "HNLU",
+        "address": {
+            "street1": "733 BISHOP STREET",
+            "street2": null,
+            "city": "HONOLULU",
+            "stateCode": "HI",
+            "zipCode": "98613",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MCLEAN-BOOZ",
+        "_id": "BOOZ",
+        "campusCode": "BOOZ",
+        "address": {
+            "street1": "8285 GREENSBOROO DRIVE",
+            "street2": null,
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                77.23051,
+                38.9228
+            ]
+        }
+    },
+    {
+        "name": "LEXINGPK-BRADLEY",
+        "_id": "LXPK",
+        "campusCode": "LXPK",
+        "address": {
+            "street1": "46950 BRADLEY BOULEVARD",
+            "street2": null,
+            "city": "LEXINGTON PARK",
+            "stateCode": "MD",
+            "zipCode": "20653",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "AUSTIN-EXEC",
+        "_id": "AUBZ",
+        "campusCode": "AUBZ",
+        "address": {
+            "street1": "701 BRAZOS STREET",
+            "street2": "SUITE 800",
+            "city": "AUSTIN",
+            "stateCode": "TX",
+            "zipCode": "78701",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PAWCATUCK-BOARD ST",
+        "_id": "PAWC",
+        "campusCode": "PAWC",
+        "address": {
+            "street1": "185 SOUTH BROAD STREET",
+            "street2": "FLOOR 3",
+            "city": "PAWCATUCK",
+            "stateCode": "CT",
+            "zipCode": "06379",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "WARNROBNS-BYRD WAY",
+        "_id": "WRGA",
+        "campusCode": "WRGA",
+        "address": {
+            "street1": "118 BYRD WAY",
+            "street2": null,
+            "city": "WARNER ROBINS",
+            "stateCode": "GA",
+            "zipCode": "31093",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SANFRAN-EXEC 50",
+        "_id": "SANF",
+        "campusCode": "SANF",
+        "address": {
+            "street1": "50 CALIFORNIA STREET",
+            "street2": "OFFICE NO. 1615",
+            "city": "SAN FRANCISCO",
+            "stateCode": "CA",
+            "zipCode": "94111",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "METAIRIE-EXEC",
+        "_id": "MET",
+        "campusCode": "MET",
+        "address": {
+            "street1": "3900 N. CAUSEWAY BOULEVARD",
+            "street2": "SUITE 1200",
+            "city": "METAIRIE",
+            "stateCode": "LA",
+            "zipCode": "70002",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CAPE CANAVRL-CHLNGER",
+        "_id": "CACV",
+        "campusCode": "CACV",
+        "address": {
+            "street1": "445 CHALLENGER ROAD",
+            "street2": null,
+            "city": "CAPE CANAVERAL",
+            "stateCode": "FL",
+            "zipCode": "32920",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHRLSTN-CLEMNTS FRY",
+        "_id": "CFSC",
+        "campusCode": "CFSC",
+        "address": {
+            "street1": "2387 CLEMENTS FERRY ROAD",
+            "street2": null,
+            "city": "CHARLESTON",
+            "stateCode": "SC",
+            "zipCode": "29492",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "KNG GRGE-COMMERC",
+        "_id": "DAHL",
+        "campusCode": "DAHL",
+        "address": {
+            "street1": "16541 COMMERCE DRIVE",
+            "street2": "DAHLGREN TECH 1",
+            "city": "KING GEORGE",
+            "stateCode": "VA",
+            "zipCode": "22485",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "GRNWD VILGE-DTC BLVD",
+        "_id": "GVCO",
+        "campusCode": "GVCO",
+        "address": {
+            "street1": "5299 DTC BOULEVARD",
+            "street2": null,
+            "city": "GREENWOOD VILLIAGE",
+            "stateCode": "CO",
+            "zipCode": "80111",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "EL SEGUNDO-SEGUNDO",
+        "_id": "EIS2",
+        "campusCode": "EIS2",
+        "address": {
+            "street1": "2310 E. EL SEGUNDO BLVD.",
+            "street2": null,
+            "city": "EL SEGUNDO",
+            "stateCode": "CA",
+            "zipCode": "90245",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "OXNARD-EXEC",
+        "_id": "OXCA",
+        "campusCode": "OXCA",
+        "address": {
+            "street1": "300 E. ESPLANADE DRIVE",
+            "street2": "OFFICE NO. 932, 926",
+            "city": "OXNARD",
+            "stateCode": "CA",
+            "zipCode": "93036",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "FALLSCHURCH-FRVIEW",
+        "_id": "FLVA",
+        "campusCode": "FLVA",
+        "address": {
+            "street1": "2941 FAIRVIEW PARK DRIVE",
+            "street2": "SUITE 200",
+            "city": "FALLS CHURCH",
+            "stateCode": "VA",
+            "zipCode": "22042",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "OMAHA-FARNAM",
+        "_id": "OMA2",
+        "campusCode": "OMA2",
+        "address": {
+            "street1": "1299 FARNAM STREET",
+            "street2": null,
+            "city": "OMAHA",
+            "stateCode": "NE",
+            "zipCode": "68102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "COLUMBUS-GENTIAN",
+        "_id": "FBGA",
+        "campusCode": "FBGA",
+        "address": {
+            "street1": "3100 GENTIAN BLVD.",
+            "street2": "SUITE 108A",
+            "city": "COLUMBUS",
+            "stateCode": "GA",
+            "zipCode": "31907",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "FT WALTON-EGLIN PKWY 73",
+        "_id": "SHAL",
+        "campusCode": "SHAL",
+        "address": {
+            "street1": "73 EGLIN PARKWAY NE",
+            "street2": "SUITE 302",
+            "city": "FORT WALTON",
+            "stateCode": "FL",
+            "zipCode": "32548",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "RED BANK-FRONT ST",
+        "_id": "RDBK",
+        "campusCode": "RDBK",
+        "address": {
+            "street1": "141 WEST FRONT STREET",
+            "street2": null,
+            "city": "RED BANK",
+            "stateCode": "NJ",
+            "zipCode": "07701",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PENSACOLA-GARDEN ST",
+        "_id": "PENS",
+        "campusCode": "PENS",
+        "address": {
+            "street1": "220 W GARDEN STREET",
+            "street2": null,
+            "city": "PENSACOLA",
+            "stateCode": "FL",
+            "zipCode": "32502",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "COLO SPG-GETTNG HEIGHTS",
+        "_id": "COS3",
+        "campusCode": "COS3",
+        "address": {
+            "street1": "7250 GETTING HEIGHTS",
+            "street2": null,
+            "city": "COLORADO SPRINGS",
+            "stateCode": "CO",
+            "zipCode": "80925",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHANTLLY-GRN",
+        "_id": "CHAN",
+        "campusCode": "CHAN",
+        "address": {
+            "street1": "15059 CONFERENCE CENTER DRIVE",
+            "street2": null,
+            "city": "CHANTILLY",
+            "stateCode": "VA",
+            "zipCode": "20151",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MCLEAN-HAMILTON",
+        "_id": "HMLT",
+        "campusCode": "HMLT",
+        "address": {
+            "street1": "8283 GREENSBORO DRIVE",
+            "street2": null,
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "HAMILTON P5",
+        "_id": "HAMP5",
+        "campusCode": "HAMP5",
+        "address": {
+            "street1": "8283 GREENSBORO DRIVE",
+            "street2": null,
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SAN DIEGO-HANCOCK",
+        "_id": "BSAN",
+        "campusCode": "BSAN",
+        "address": {
+            "street1": "4055 HANCOCK STREET",
+            "street2": null,
+            "city": "SAN DIEGO",
+            "stateCode": "CA",
+            "zipCode": "92110",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "LEXINGTON-HARTWELL",
+        "_id": "LXMA",
+        "campusCode": "LXMA",
+        "address": {
+            "street1": "91 HARTWELL AVENUE",
+            "street2": null,
+            "city": "LEXINGTON",
+            "stateCode": "MA",
+            "zipCode": "02421",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "HERNDON-HP 575",
+        "_id": "HDPW",
+        "campusCode": "HDPW",
+        "address": {
+            "street1": "575 HERNDON PARKWAY",
+            "street2": null,
+            "city": "HERNDON",
+            "stateCode": "VA",
+            "zipCode": "112078",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "EL SEGUNDO-E IMPERIAL",
+        "_id": "BELS",
+        "campusCode": "BELS",
+        "address": {
+            "street1": "2250 EAST IMPERIAL HIGHWAY",
+            "street2": null,
+            "city": "EL SEGUNDO",
+            "stateCode": "CA",
+            "zipCode": "90245",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "TAMPA-KENNEDY BLVD",
+        "_id": "TMPA",
+        "campusCode": "TMPA",
+        "address": {
+            "street1": "4890 WEST KENNEDY BLVD",
+            "street2": null,
+            "city": "TAMPA",
+            "stateCode": "FL",
+            "zipCode": "33609",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ORLANDO-EXEC",
+        "_id": "ORLA",
+        "campusCode": "ORLA",
+        "address": {
+            "street1": "3505 LAKE LYNDA DRIVE",
+            "street2": "ORLANDO UNIVERSITY, SUITE 200",
+            "city": "ORLANDO",
+            "stateCode": "FL",
+            "zipCode": "32817",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHICAGO-EXEC",
+        "_id": "CHG2",
+        "campusCode": "CHG2",
+        "address": {
+            "street1": "203 N. LASALLE STREET",
+            "street2": "OFFICE NUMBERS 2164, 2157, 2160",
+            "city": "CHICAGO",
+            "stateCode": "IL",
+            "zipCode": "60601",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "LEARNING LAB",
+        "_id": "LAB",
+        "campusCode": "LAB",
+        "address": {
+            "street1": "8201 GREENSBORO DRIVE",
+            "street2": null,
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CLEARFIELD-LDND HILS",
+        "_id": "CLRF",
+        "campusCode": "CLRF",
+        "address": {
+            "street1": "1366 S. LEGEND HILLS DRIVE",
+            "street2": null,
+            "city": "CLEARFIELD",
+            "stateCode": "UT",
+            "zipCode": "84105",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "AURORA-LEWISTON ST1",
+        "_id": "COLW",
+        "campusCode": "COLW",
+        "address": {
+            "street1": "3855 LEWISTON STREET",
+            "street2": null,
+            "city": "AURORA",
+            "stateCode": "CO",
+            "zipCode": "80011",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PHILADELPHIA-MARKET",
+        "_id": "PHPA",
+        "campusCode": "PHPA",
+        "address": {
+            "street1": "1818 MARKET STREET",
+            "street2": null,
+            "city": "PHILADELPHIA",
+            "stateCode": "PA",
+            "zipCode": "19103",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHANTLLY-MDW",
+        "_id": "CHPM",
+        "campusCode": "CHPM",
+        "address": {
+            "street1": "14151 PARK MEADOW DRIVE",
+            "street2": null,
+            "city": "CHANTILLY",
+            "stateCode": "VA",
+            "zipCode": "20151",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "BOSTON-MILK",
+        "_id": "BNMA",
+        "campusCode": "BNMA",
+        "address": {
+            "street1": "50 MILK STREET",
+            "street2": null,
+            "city": "BOSTON",
+            "stateCode": "MA",
+            "zipCode": "02109",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MONTGOMERY-EXEC",
+        "_id": "MODA",
+        "campusCode": "MODA",
+        "address": {
+            "street1": "445 DEXTER AVENUE",
+            "street2": "SUITE 4050, OFFICES 401-408",
+            "city": "MONTGOMERY",
+            "stateCode": "AL",
+            "zipCode": "36104",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SUNNYVALE-MOFFET PRK",
+        "_id": "SUN",
+        "campusCode": "SUN",
+        "address": {
+            "street1": "385 MOFFET PARK DRIVE",
+            "street2": null,
+            "city": "SUNNYVALE",
+            "stateCode": "CA",
+            "zipCode": "94089",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "FAYETTEVILLE-WACHOV",
+        "_id": "FAYE",
+        "campusCode": "FAYE",
+        "address": {
+            "street1": "4200 MORGANTON ROAD",
+            "street2": null,
+            "city": "FAYETTEVILLE",
+            "stateCode": "NC",
+            "zipCode": "28314",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SAN DIEGO-MURAY CNYN",
+        "_id": "SNDG",
+        "campusCode": "SNDG",
+        "address": {
+            "street1": "1615 MURRAY CANYON RD",
+            "street2": null,
+            "city": "SAN DIEGO",
+            "stateCode": "CA",
+            "zipCode": "92108",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PICATINNY-NINTH AVE",
+        "_id": "DOVE",
+        "campusCode": "DOVE",
+        "address": {
+            "street1": "356 NINTH AVENUE",
+            "street2": null,
+            "city": "PICATINNY",
+            "stateCode": "NJ",
+            "zipCode": "07806",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SEATTLE-OLIVE WAY",
+        "_id": "SEWA",
+        "campusCode": "SEWA",
+        "address": {
+            "street1": "720 OLIVE WAY",
+            "street2": null,
+            "city": "SEATTLE",
+            "stateCode": "WA",
+            "zipCode": "98101",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "RCKVL-ONE PRESRV",
+        "_id": "PRSV",
+        "campusCode": "PRSV",
+        "address": {
+            "street1": "ONE PRESERVE PARKWAY",
+            "street2": null,
+            "city": "ROCKVILLE",
+            "stateCode": "MD",
+            "zipCode": "20852",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "WSTBOROUGH-WEST PRK",
+        "_id": "WBMA",
+        "campusCode": "WBMA",
+        "address": {
+            "street1": "1900 WEST PARK DRIVE",
+            "street2": null,
+            "city": "WESTBOROUGH",
+            "stateCode": "MA",
+            "zipCode": "01581",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "OXON HILL-POTOMAC",
+        "_id": "OHMD",
+        "campusCode": "OHMD",
+        "address": {
+            "street1": "6710 OXON HILL ROAD",
+            "street2": null,
+            "city": "OXON HILL",
+            "stateCode": "MD",
+            "zipCode": "20745",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CALIFORNIA-AIRPRT DR",
+        "_id": "CAMD",
+        "campusCode": "CAMD",
+        "address": {
+            "street1": "44423 AIRPORT RD",
+            "street2": null,
+            "city": "CALIFORNIA",
+            "stateCode": "MD",
+            "zipCode": "20619",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ATLANTA-PEACHTREE",
+        "_id": "ATGA",
+        "campusCode": "ATGA",
+        "address": {
+            "street1": "1349 WEST PEACHTREE STREET, NW",
+            "street2": null,
+            "city": "ATLANTA",
+            "stateCode": "GA",
+            "zipCode": "30309",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SAN A'TNO-WESTON",
+        "_id": "TXSA",
+        "campusCode": "TXSA",
+        "address": {
+            "street1": "112 EAST PECAN ST",
+            "street2": null,
+            "city": "SAN ANTONIO",
+            "stateCode": "TX",
+            "zipCode": "78205",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "WSHDC-PORTALS",
+        "_id": "WAMD",
+        "campusCode": "WAMD",
+        "address": {
+            "street1": "1201 MARYLAND AVENUE, S.W.",
+            "street2": null,
+            "city": "WASHINGTON",
+            "stateCode": "DC",
+            "zipCode": "20024",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHRLTSVLE-RESRCH PRK",
+        "_id": "CHVA",
+        "campusCode": "CHVA",
+        "address": {
+            "street1": "1001 RESEARCH PARK BLVD",
+            "street2": null,
+            "city": "CHARLOTTESVILL",
+            "stateCode": "VA",
+            "zipCode": "22911",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SAN A'TNO-ROBERSON",
+        "_id": "SARB",
+        "campusCode": "SARB",
+        "address": {
+            "street1": "3133 GENERAL HUDNELL DRIVE",
+            "street2": null,
+            "city": "SAN ANTONIO",
+            "stateCode": "TX",
+            "zipCode": "78226",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "OKLAHOMA CTY-ROB AVE",
+        "_id": "OKCY",
+        "campusCode": "OKCY",
+        "address": {
+            "street1": "211 NORTH ROBINSON AVENUE",
+            "street2": null,
+            "city": "OKLAHOMA CITY",
+            "stateCode": "OK",
+            "zipCode": "73102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHANTLLY-STNCRFT",
+        "_id": "CHY2",
+        "campusCode": "CHY2",
+        "address": {
+            "street1": "4801 STONECROFT BOULEVARD",
+            "street2": null,
+            "city": "CHANTILLY",
+            "stateCode": "VA",
+            "zipCode": "20151",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SANFRAN-EXEC 44",
+        "_id": "SFTE",
+        "campusCode": "SFTE",
+        "address": {
+            "street1": "44 TEHAMA STREET",
+            "street2": "SUITE 305 AND 415",
+            "city": "SAN FRANCISCO",
+            "stateCode": "CA",
+            "zipCode": "94105",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "NEWPORT-THIRD ST",
+        "_id": "NEWP",
+        "campusCode": "NEWP",
+        "address": {
+            "street1": "221 THIRD STREET",
+            "street2": "FLOOR 6",
+            "city": "NEWPORT",
+            "stateCode": "RI",
+            "zipCode": "02840",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PANMACTY-THOMAS1",
+        "_id": "PAN",
+        "campusCode": "PAN",
+        "address": {
+            "street1": "1300 THOMAS DRIVE",
+            "street2": null,
+            "city": "PANAMA CITY BEACH",
+            "stateCode": "FL",
+            "zipCode": "32408",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PANMACTY-THOMAS2",
+        "_id": "PAN2",
+        "campusCode": "PAN2",
+        "address": {
+            "street1": "1300 THOMAS DRIVE",
+            "street2": null,
+            "city": "PANAMA CITY BEACH",
+            "stateCode": "FL",
+            "zipCode": "32408",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "JACKSNVL-EXEC",
+        "_id": "JKNC",
+        "campusCode": "JKNC",
+        "address": {
+            "street1": "200 VALENCIA DRIVE",
+            "street2": "OFFICE NO. 102,103, 105, 117 AND 118",
+            "city": "JACKSONVILLE",
+            "stateCode": "NC",
+            "zipCode": "28546",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "O'FALLON-WELSLEY",
+        "_id": "OFAL",
+        "campusCode": "OFAL",
+        "address": {
+            "street1": "1003 E WESLEY DRIVE",
+            "street2": null,
+            "city": "O'FALLON",
+            "stateCode": "IL",
+            "zipCode": "62269",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "AUGUSTA-WHEELER",
+        "_id": "AUGA",
+        "campusCode": "AUGA",
+        "address": {
+            "street1": "3633 WHEELER ROAD",
+            "street2": null,
+            "city": "AUGUSTA",
+            "stateCode": "GA",
+            "zipCode": "30909",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "RADCLIFF-WILSON DR",
+        "_id": "RADC",
+        "campusCode": "RADC",
+        "address": {
+            "street1": "1003-D N. WILSON ROAD",
+            "street2": null,
+            "city": "RADCLIFF",
+            "stateCode": "KY",
+            "zipCode": "40160",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ABUDHABI-ALKHATEM",
+        "_id": "ALKH",
+        "campusCode": "ALKH",
+        "address": {
+            "street1": "AL KHATEM TOWER, ABU DHABI GLOBAL MARKET",
+            "street2": null,
+            "city": "ABU DHABI",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "UAE"
+        }
+    },
+    {
+        "name": "RIYADH-AL AQIQ",
+        "_id": "RIYA",
+        "campusCode": "RIYA",
+        "address": {
+            "street1": "3633 MUHAMMAD IBN DAKHIL, AL AQIQ",
+            "street2": null,
+            "city": "RIYADH",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "SAUDI ARABIA"
+        }
+    },
+    {
+        "name": "ASTANA TOWER",
+        "_id": "KZKN",
+        "campusCode": "KZKN",
+        "address": {
+            "street1": "12 SAMAL MICRODISTRICT",
+            "street2": "OFFICE NO. 94",
+            "city": "ASTANA",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "KAZAKHSTAN"
+        }
+    },
+    {
+        "name": "NEW CAIRO-STREET 90",
+        "_id": "CAI",
+        "campusCode": "CAI",
+        "address": {
+            "street1": "SECTION 1 - STREET 90 - NORTH",
+            "street2": "OFFICE NO. 466",
+            "city": "NEW CAIRO",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "EGYPT"
+        }
+    },
+    {
+        "name": "DOHA-MARRIOTT",
+        "_id": "DOH2",
+        "campusCode": "DOH2",
+        "address": {
+            "street1": "411 PENTHOUSE, OMAR AL MUKHART STREET",
+            "street2": null,
+            "city": "DOHA",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "QATAR"
+        }
+    },
+    {
+        "name": "JAKARTA-ANZ TWR",
+        "_id": "JAKR",
+        "campusCode": "JAKR",
+        "address": {
+            "street1": "JALAN JEND SUDIRMAN KAV. 33 A",
+            "street2": "23/F, SUITE 50",
+            "city": "JAKARTA",
+            "stateCode": null,
+            "zipCode": "10220",
+            "country": "INDONESIA"
+        }
+    },
+    {
+        "name": "KABUL-WAZIR AKBAR",
+        "_id": "KAB",
+        "campusCode": "KAB",
+        "address": {
+            "street1": "HOUSE 1063, LANE 2, STREET15, WAZIR AKBA",
+            "street2": "WAZIR AKBAR KHAN",
+            "city": "KABUL",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "AFGHANISTAN"
+        }
+    },
+    {
+        "name": "OKINAWA-TOWA BLDG",
+        "_id": "OKJA",
+        "campusCode": "OKJA",
+        "address": {
+            "street1": "IHEI 411-3",
+            "street2": "CHATAN-CHO, ROOM NO. 1 & 6",
+            "city": "NAKAGAMI-GUN, OKINAWA",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "JAPAN"
+        }
+    },
+    {
+        "name": "RIYADH-RESIDENTIAL",
+        "_id": "RIY2",
+        "campusCode": "RIY2",
+        "address": {
+            "street1": "CALIFORNIA RESORT",
+            "street2": null,
+            "city": "RIYADH",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "SAUDI ARABIA"
+        }
+    },
+    {
+        "name": "SEOUL-DRAGON HILL",
+        "_id": "SEOU",
+        "campusCode": "SEOU",
+        "address": {
+            "street1": "4050-B, SOUTH POST HANGANGRO 1-KA",
+            "street2": "YONGSAN-KU, BLDG 4050B, MEZZ LEVEL",
+            "city": "SEOUL",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "REPUBLIC OF KOREA"
+        }
+    },
+    {
+        "name": "SINGAPORE-MARINA 8",
+        "_id": "SNGP",
+        "campusCode": "SNGP",
+        "address": {
+            "street1": "8 MARINA VIEW",
+            "street2": "ASIA SQUARE TOWER 1, UNIT NO: 13-03",
+            "city": "SINGAPORE",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "SINGAPORE"
+        }
+    },
+    {
+        "name": "STUTTGART-BUS CNTR",
+        "_id": "STGT",
+        "campusCode": "STGT",
+        "address": {
+            "street1": "CURIESTRASSE 2",
+            "street2": "OFFICE NOS. 401-415",
+            "city": "STUTTGART",
+            "stateCode": "BADEN-WURTTEMBERG",
+            "zipCode": "70563",
+            "country": "GERMANY"
+        }
+    },
+    {
+        "name": "HUNTSVLE-BRIDGE ST",
+        "_id": "ALHU",
+        "campusCode": "ALHU",
+        "address": {
+            "street1": "310 THE BRIDGE STREET",
+            "street2": null,
+            "city": "HUNTSVILLE",
+            "stateCode": "AL",
+            "zipCode": "35806",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "COLO SPG-SPACE CNTR",
+        "_id": "COCO",
+        "campusCode": "COCO",
+        "address": {
+            "street1": "745 SPACE CENTER DRIVE",
+            "street2": null,
+            "city": "COLORADO SPRINGS",
+            "stateCode": "CO",
+            "zipCode": "80915",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "BEAVERCREEK-PENTGN",
+        "_id": "DAOH",
+        "campusCode": "DAOH",
+        "address": {
+            "street1": "3800 PENTAGON BOULEVARD",
+            "street2": null,
+            "city": "BEAVERCREEK",
+            "stateCode": "OH",
+            "zipCode": null,
+            "country": "USA"
+        }
+    },
+    {
+        "name": "N CHRLSTN-REMOUNT RD",
+        "_id": "TYSC",
+        "campusCode": "TYSC",
+        "address": {
+            "street1": "1141 REMOUNT RD",
+            "street2": null,
+            "city": "NORTH CHARLESTON",
+            "stateCode": "SC",
+            "zipCode": "29406",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "COLUMBIA-ONECOLUMBIA",
+        "_id": "COMD",
+        "campusCode": "COMD",
+        "address": {
+            "street1": "10025 GOVERNOR WARFIELD PARKWAY",
+            "street2": null,
+            "city": "COLUMBIA",
+            "stateCode": "MD",
+            "zipCode": "21044",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "BLUEASH-LAKE FOREST",
+        "_id": "BASH",
+        "campusCode": "BASH",
+        "address": {
+            "street1": "4555 LAKE FOREST DRIVE",
+            "street2": "SUITE 200",
+            "city": "BLUE ASH",
+            "stateCode": "OH",
+            "zipCode": "45242",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "DUBAI-PRECINCT",
+        "_id": "DUBA",
+        "campusCode": "DUBA",
+        "address": {
+            "street1": "LEVEL 4, GATE PRECINCT BUILDING 3",
+            "street2": null,
+            "city": "DUBAI",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "UAE"
+        }
+    },
+    {
+        "name": "HANAHAN-EXEC",
+        "_id": "HNBC",
+        "campusCode": "HNBC",
+        "address": {
+            "street1": "1007 BANKTON CIRCLE",
+            "street2": null,
+            "city": "HANAHAN",
+            "stateCode": "SC",
+            "zipCode": "29410",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ALBUQURQ-AMER PKWY 6501",
+        "_id": "ALQU",
+        "campusCode": "ALQU",
+        "address": {
+            "street1": "6501 AMERICAS PARKWAY NE",
+            "street2": "FLOOR 3, SUITE 330",
+            "city": "ALBUQUERQUE",
+            "stateCode": "NM",
+            "zipCode": "87110",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "BEIRUT-ONE ALLENBY",
+        "_id": "BELE",
+        "campusCode": "BELE",
+        "address": {
+            "street1": "PLOT NO. 1, PORT OF BEIRUT - ONE ALLENB",
+            "street2": "FLOOR 9 AND 10",
+            "city": "BEIRUT",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "LEBANON"
+        }
+    },
+    {
+        "name": "ALHAMRIYA-BAHRAIN",
+        "_id": "BAH",
+        "campusCode": "BAH",
+        "address": {
+            "street1": "ROAD 1457, BLOCK 1014",
+            "street2": "UNIT 11",
+            "city": "HAMALA",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "BAHRAIN"
+        }
+    },
+    {
+        "name": "HUNTINGDON-EXEC",
+        "_id": "UKEX",
+        "campusCode": "UKEX",
+        "address": {
+            "street1": "CASTLE HILL HOUSE",
+            "street2": "HIGH STREET, SUITE G01 & G02",
+            "city": "HUNTINGDON",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "UNITED KINGDOM"
+        }
+    },
+    {
+        "name": "HAGUE-EXEC",
+        "_id": "HAG",
+        "campusCode": "HAG",
+        "address": {
+            "street1": "JAN PIETERSZOON COENSTRAAT 7",
+            "street2": "OFFICE NO. S313COWORK04",
+            "city": "THE HAGUE, BEATRIXKWARTIER",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "NETHERLANDS"
+        }
+    },
+    {
+        "name": "ABUDHABI-ALBATEEN",
+        "_id": "ABU2",
+        "campusCode": "ABU2",
+        "address": {
+            "street1": "AL BATEEN TOWER C6 BAINUNAH, STREET 34",
+            "street2": "ADIB BLDG, OFFICE NO. 210",
+            "city": "ABU DHABI",
+            "stateCode": null,
+            "zipCode": null,
+            "country": "UAE"
+        }
+    },
+    {
+        "name": "BOSSIER-EXEC",
+        "_id": "BCLA",
+        "campusCode": "BCLA",
+        "address": {
+            "street1": "6300 EAST TEXAS",
+            "street2": "SUITE 220",
+            "city": "BOSSIER CITY",
+            "stateCode": "LA",
+            "zipCode": "71111",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "DENVER-EXEC",
+        "_id": "DECO",
+        "campusCode": "DECO",
+        "address": {
+            "street1": "1644 PLATTE STREET",
+            "street2": "SUITE 410",
+            "city": "DENVER",
+            "stateCode": "CO",
+            "zipCode": "80202",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "DURHAM-EXEC",
+        "_id": "DURA",
+        "campusCode": "DURA",
+        "address": {
+            "street1": "2530 MERIDIAN PARKWAY",
+            "street2": "OFFICE NO. 4028, FLOOR 4",
+            "city": "DURHAM",
+            "stateCode": "NC",
+            "zipCode": "27713",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "FREDRCKBRG-SHANNON",
+        "_id": "FRDB",
+        "campusCode": "FRDB",
+        "address": {
+            "street1": "3509 SHANNON PARK DRIVE",
+            "street2": "SUITE 115",
+            "city": "FREDERICKSBURG",
+            "stateCode": "VA",
+            "zipCode": "22408",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MANILA-EXEC",
+        "_id": "MAN",
+        "campusCode": "MAN",
+        "address": {
+            "street1": "CRESCENT PARK WEST, NET LIMA 5TH AVE",
+            "street2": "COR 26TH STREET E-SQ, UNIT 10",
+            "city": "BONIFACIO GLOBAL CITY, TAGUIG",
+            "stateCode": null,
+            "zipCode": "1634",
+            "country": "PHILIPPINES"
+        }
+    },
+    {
+        "name": "LAUREL-WEST ST",
+        "_id": "LUMD",
+        "campusCode": "LUMD",
+        "address": {
+            "street1": "1100 WEST STREET",
+            "street2": null,
+            "city": "LAUREL",
+            "stateCode": "MD",
+            "zipCode": "20707",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MCLEAN-STRGE",
+        "_id": "MEC",
+        "campusCode": "MEC",
+        "address": {
+            "street1": "8201 GREENSBORO DRIVE",
+            "street2": "SUITES 102, 104, FLOOR 1",
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "PLANO-EXEC",
+        "_id": "PLAN",
+        "campusCode": "PLAN",
+        "address": {
+            "street1": "7700 WINDROSE",
+            "street2": "OFFICE NUMBER: 02-169",
+            "city": "PLANO",
+            "stateCode": "TX",
+            "zipCode": "75024",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ROSEVLE-EXEC",
+        "_id": "ROCA",
+        "campusCode": "ROCA",
+        "address": {
+            "street1": "915 HIGHLAND POINTE DRIVE",
+            "street2": null,
+            "city": "ROSEVILLE",
+            "stateCode": "CA",
+            "zipCode": "95678",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "RUCKSVLL-COMMERCE",
+        "_id": "RUSV",
+        "campusCode": "RUSV",
+        "address": {
+            "street1": "109 COMMERCE DRIVE",
+            "street2": null,
+            "city": "RUCKERSVILLE",
+            "stateCode": "VA",
+            "zipCode": "22968",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SEATTLE-EXEC",
+        "_id": "SWCT",
+        "campusCode": "SWCT",
+        "address": {
+            "street1": "701 5TH AVENUE",
+            "street2": "FLOOR 42",
+            "city": "SEATTLE",
+            "stateCode": "WA",
+            "zipCode": "98104",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SEATTLE-LAB",
+        "_id": "ROWA",
+        "campusCode": "ROWA",
+        "address": {
+            "street1": "4545 ROOSEVELT WAY, NE",
+            "street2": null,
+            "city": "SEATTLE",
+            "stateCode": "WA",
+            "zipCode": "98105",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "NEWPORTNEWS-EXEC",
+        "_id": "NNWV",
+        "campusCode": "NNWV",
+        "address": {
+            "street1": "11815 FOUNTAIN WAY",
+            "street2": "SUITE 300, OFFICE NO. 337 AND 341",
+            "city": "NEWPORT NEWS",
+            "stateCode": "VA",
+            "zipCode": "23606",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "LASVEGAS-EXEC",
+        "_id": "LVNF",
+        "campusCode": "LVNF",
+        "address": {
+            "street1": "400 S. 4TH STREET",
+            "street2": "SUITE 500, OFFICE NO. 529, 532, 537 & 53",
+            "city": "LAS VEGAS",
+            "stateCode": "NV",
+            "zipCode": "89101",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MCLEAN-WEWORKS 2",
+        "_id": "MWW2",
+        "campusCode": "MWW2",
+        "address": {
+            "street1": "1775 TYSONS BLVD, WEWORK TYSON",
+            "street2": "FLOOR 6",
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "MCLEAN-WEWORKS",
+        "_id": "TYWW",
+        "campusCode": "TYWW",
+        "address": {
+            "street1": "1775 TYSON'S BOULEVARD",
+            "street2": null,
+            "city": "MCLEAN",
+            "stateCode": "VA",
+            "zipCode": "22102",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SPOKANE-EXEC",
+        "_id": "SWWF",
+        "campusCode": "SWWF",
+        "address": {
+            "street1": "601 W 1ST AVENUE",
+            "street2": "SUITE 1400",
+            "city": "SPOKANE",
+            "stateCode": "WA",
+            "zipCode": "99201",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "FAYETTEVILLE-EXEC",
+        "_id": "FAY2",
+        "campusCode": "FAY2",
+        "address": {
+            "street1": "4200 MORGANTON ROAD",
+            "street2": "SUITE 200-19, SUITE 200-24",
+            "city": "FAYETTEVILLE",
+            "stateCode": "NC",
+            "zipCode": "28314",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ALBANY-PINE AVE",
+        "_id": "ALBN",
+        "campusCode": "ALBN",
+        "address": {
+            "street1": "415 PINE AVENUE",
+            "street2": "SUITE 102, FLOOR 01",
+            "city": "ALBANY",
+            "stateCode": "GA",
+            "zipCode": "31701",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "STLOUIS-EXEC",
+        "_id": "SLDA",
+        "campusCode": "SLDA",
+        "address": {
+            "street1": "4220 DUNCAN AVENUE",
+            "street2": null,
+            "city": "ST. LOUIS",
+            "stateCode": "MO",
+            "zipCode": "63110",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "STLOUIS-MARKETST",
+        "_id": "MSMO",
+        "campusCode": "MSMO",
+        "address": {
+            "street1": "1010 MARKET STREET",
+            "street2": "SUITE 1400",
+            "city": "ST. LOUIS",
+            "stateCode": "MO",
+            "zipCode": "63101",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "KANSASCTY-EXEC",
+        "_id": "KCPS",
+        "campusCode": "KCPS",
+        "address": {
+            "street1": "2300 MAIN STREET",
+            "street2": null,
+            "city": "KANSAS CITY",
+            "stateCode": "MO",
+            "zipCode": "64108",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "HOUSTON-EXEC825",
+        "_id": "HTN3",
+        "campusCode": "HTN3",
+        "address": {
+            "street1": "825 TOWN AND COUNTRY LANE",
+            "street2": "3035,3040,3041,3043,3047,3048,3051,3044",
+            "city": "HOUSTON",
+            "stateCode": "TX",
+            "zipCode": "77024",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "SAN DIEGO-STORAGE",
+        "_id": "SND3",
+        "campusCode": "SND3",
+        "address": {
+            "street1": "1501 FRAZEE RD",
+            "street2": "UNIT 2756",
+            "city": "SAN DIEGO",
+            "stateCode": "CA",
+            "zipCode": "92108",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "BETHESDA-SANGAMORE RD",
+        "_id": "BETE",
+        "campusCode": "BETE",
+        "address": {
+            "street1": "4701 SANGAMORE ROAD",
+            "street2": "SUITE 100N",
+            "city": "BETHESDA",
+            "stateCode": "MD",
+            "zipCode": "20816",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "KNOXVILLE-TERRAPIN",
+        "_id": "KNOX",
+        "campusCode": "KNOX",
+        "address": {
+            "street1": "11043 TERRAPIN STATION LANE",
+            "street2": null,
+            "city": "KNOXVILLE",
+            "stateCode": "TN",
+            "zipCode": "37932",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ODON-EXEC",
+        "_id": "ODON",
+        "campusCode": "ODON",
+        "address": {
+            "street1": "13598 E. WESTGATE DRIVE",
+            "street2": "SUITE 213",
+            "city": "ODON",
+            "stateCode": "IN",
+            "zipCode": "47562",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ROME-HILL RD",
+        "_id": "RST",
+        "campusCode": "RST",
+        "address": {
+            "street1": "245 HILL ROAD",
+            "street2": "GRIFFISS PROFESSIONAL COMPLEX-BLDG 4",
+            "city": "ROME",
+            "stateCode": "NY",
+            "zipCode": "45324",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "FAIRBORN-COMMERCE",
+        "_id": "FAIS",
+        "campusCode": "FAIS",
+        "address": {
+            "street1": "2160 COMMERCE CENTER BLVD.",
+            "street2": "UNIT 132",
+            "city": "FAIRBORN",
+            "stateCode": "OH",
+            "zipCode": "45324",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "EL SEGUNDO-EXEC",
+        "_id": "ELS3",
+        "campusCode": "ELS3",
+        "address": {
+            "street1": "840 APOLLO STREET",
+            "street2": null,
+            "city": "EL SEGUNDO",
+            "stateCode": "CA",
+            "zipCode": "90245",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ARLIGTON-WILSON",
+        "_id": "BALQ",
+        "campusCode": "BALQ",
+        "address": {
+            "street1": "4121 WILSON BOULEVARD",
+            "street2": null,
+            "city": "ARLINGTON",
+            "stateCode": "VA",
+            "zipCode": "22203",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "ARLNGTN-WEWORK",
+        "_id": "ARL",
+        "campusCode": "ARL",
+        "address": {
+            "street1": "1201 WILSON BLVD #27",
+            "street2": "OFFICE 26-109",
+            "city": "ARLINGTON",
+            "stateCode": "VA",
+            "zipCode": "22209",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "CHARLOTTE-EXEC2",
+        "_id": "CHR2",
+        "campusCode": "CHR2",
+        "address": {
+            "street1": "101 N. TRYON STREET",
+            "street2": "SUITE 103",
+            "city": "CHARLOTTE",
+            "stateCode": "NC",
+            "zipCode": "28246",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "LONDON-EXEC",
+        "_id": "BLND",
+        "campusCode": "BLND",
+        "address": {
+            "street1": "1 FINSBURY AVENUE",
+            "street2": "STOREY UNIT 2F",
+            "city": "BROADGATE, LONDON",
+            "stateCode": null,
+            "zipCode": "EC2M 2PG",
+            "country": "UNITED KINGDOM"
+        }
+    },
+    {
+        "name": "BETHESDA-BETHESDA AVE",
+        "_id": "BETH",
+        "campusCode": "BETH",
+        "address": {
+            "street1": "4747 BETHESDA AVENUE",
+            "street2": null,
+            "city": "BETHESDA",
+            "stateCode": "MD",
+            "zipCode": "20814",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "UTICA-EXEC",
+        "_id": "UTCA",
+        "campusCode": "UTCA",
+        "address": {
+            "street1": "114 GENESSE STREET",
+            "street2": "SUITE 200",
+            "city": "UTICA",
+            "stateCode": "NY",
+            "zipCode": "13502",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "AURORA-LEWISTON ST2",
+        "_id": "AUCO",
+        "campusCode": "AUCO",
+        "address": {
+            "street1": "3855 LEWISTON STREET",
+            "street2": "SUITE 200 - THREE GATEWAY CENTER",
+            "city": "AURORA",
+            "stateCode": "CO",
+            "zipCode": "80011",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "WSTBOROUGH-WEST PRK",
+        "_id": "WBM2",
+        "campusCode": "WBM2",
+        "address": {
+            "street1": "1900 WEST PARK DRIVE",
+            "street2": "SUITE 170",
+            "city": "WESTBOROUGH",
+            "stateCode": "MA",
+            "zipCode": "01581",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "LOMPOC-EXEC",
+        "_id": "LPCA",
+        "campusCode": "LPCA",
+        "address": {
+            "street1": "1010 N H STREET",
+            "street2": "LAUNCHPAD",
+            "city": "LOMPOC",
+            "stateCode": "CA",
+            "zipCode": "93436",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "BEAVERCREEK-PENTGN2",
+        "_id": "BEOH",
+        "campusCode": "BEOH",
+        "address": {
+            "street1": "3800 PENTAGON BOULEVARD",
+            "street2": "SUITE 130",
+            "city": "BEAVERCREEK",
+            "stateCode": "OH",
+            "zipCode": "45431",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "HAGUE SD-EXC",
+        "_id": "HANE",
+        "campusCode": "HANE",
+        "address": {
+            "street1": "WILHELMINA VAN PRUISENWEG 104",
+            "street2": "UNIT 629",
+            "city": "HAGUE",
+            "stateCode": null,
+            "zipCode": "2595",
+            "country": "NETHERLANDS"
+        }
+    }
+]

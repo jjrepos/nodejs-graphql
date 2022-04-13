@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+    "target": "ES2020",
+    "module": "commonjs",
+    "lib": [
+      "ES2020",
+      "esnext.asynciterable"
+    ],
+    "outDir": "dist",
+    "strict": false,
+    "strictPropertyInitialization": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "rootDir": "src"
+  },
+  "include": [
+    "src/**/*",
+    "src/settings/settings.json",
+  ],
+  "exclude": [
+    "node_modules",
+    ".vscode"
+  ]
+}

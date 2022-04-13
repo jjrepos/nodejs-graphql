@@ -1,0 +1,27 @@
+{
+    "server": {
+        "port": 8080,
+        "env": "dev"
+    },
+    "db": {
+        "hosts": "dlodbamongodb01.cstlab.bah.com,dlodbamongodb02.cstlab.bah.com,dlodbamongodb03.cstlab.bah.com",
+        "dbName": "facilities-api",
+        "replicaSet": "mongodb_replicaset01",
+        "user": "facilities-api",
+        "password": "p%40ssw0rd",
+        "poolSize": 10,
+        "debug": false,
+        "authSource":"test"
+    },
+    "logLevels": {
+        "Database": "info",
+        "ApiServer": "debug",
+        "TransportationTypeService": "debug",
+        "FacilityResolver": "debug",
+        "FacilityService": "debug",
+        "FacilityRepositoryImpl": "debug",
+        "AmenityRepositoryImpl": "debug",
+        "AmenityTypeRepositoryImpl": "debug",
+        "OperationTypeRepositoryImpl": "debug"
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "COLLABORATION_ROOM",
+        "desc":"Collaboration Rooms"
+    },
+    {
+        "name": "HUDDLE_ROOM",
+        "desc":"Huddle Rooms"
+    },
+    {
+        "name": "CONFERENCE_ROOM",
+        "desc":"Conference Rooms"
+    },
+    {
+        "name": "PARTNER_CONFERENCE_ROOM",
+        "desc":"Partner Conference Rooms"
+    },
+    {
+        "name": "BOARD_ROOM",
+        "desc":"Board Room"
+    },
+    {
+        "name": "OTHER_SPACES",
+        "desc":"Other Spaces"
+    },
+    {
+        "name": "TEAM_ROOM",
+        "desc":"Team Rooms"
+    }
+]

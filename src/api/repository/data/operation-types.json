@@ -1,0 +1,38 @@
+[
+    {
+        "name": "DISTRIBUTION_SERVICE",
+        "desc": "Distribution Service"
+    },
+    {
+        "name": "CLEANING_SERVICE",
+        "desc": "Cleaning Service"
+    },
+    {
+        "name": "ACCESS_CONTROL_OFFICE_SERVICE",
+        "desc": "Access Control Office"
+    },
+    {
+        "name": "RECEPTION_SERVICE",
+        "desc": "Reception Service"
+    },
+    {
+        "name": "FACILITY_MANAGEMENT_SERVICE",
+        "desc": "Facility Management"
+    },
+    {
+        "name": "GREEN_OFFICE_TEAM_SERVICE",
+        "desc": "Green Office Team"
+    },
+    {
+        "name": "CONCIERGE_SERVICE",
+        "desc": "Concierge"
+    },
+    {
+        "name": "MEETING_SERVICE",
+        "desc": "Meeting Service"
+    },
+    {
+        "name": "RECYCLING_SERVICE",
+        "desc": "Recycling"
+    }
+]

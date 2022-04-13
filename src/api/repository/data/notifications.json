@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Garage closing",
+        "desc": "closing garage",
+        "startsOn": "2020-08-12T09:00:00.000Z",
+        "endsOn": "2020-08-31T04:00:00.000Z",
+        "facility": "BOOZ"
+    },
+
+    {
+        "title": "Garage closing at BOOZ",
+        "desc": "near by garage closing",
+        "startsOn": "2020-08-12T09:00:00.000Z",
+        "endsOn": null,
+        "facility": "BOOZ"
+    }
+
+]

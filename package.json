@@ -1,0 +1,72 @@
+{
+  "name": "actions-test-nodejs",
+  "version": "1.0.0",
+  "description": "GitHub actions test nodejs project",
+  "main": "./dist/src/api/index.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "start": "node dist/api/index.js ",
+    "watch:server": "nodemon src/api/index.ts",
+    "debug": "node --inspect=5858 -r ts-node/register src/api/index.ts",
+    "dev": "npm-run-all --parallel watch:build watch:server",
+    "build": "tsc",
+    "clean-build": "npm-run-all clean build",
+    "clean-build-test": "npm-run-all clean build test",
+    "clean-build-start": "npm-run-all clean build test start",
+    "watch:build": "tsc --watch",
+    "test": "jest -i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@newrelic/apollo-server-plugin": "^0.1.2",
+    "@typegoose/typegoose": "^7.4.2",
+    "@types/mongoose": "^5.10.0",
+    "apollo-server": "^2.19.0",
+    "class-transformer": "^0.3.1",
+    "class-validator": "^0.12.2",
+    "graphql": "^15.5.0",
+    "graphql-fields-list": "^2.2.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.15",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/graphql-fields": "^1.3.3",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.14.7",
+    "apollo-boost": "^0.4.9",
+    "cross-fetch": "^3.0.6",
+    "eslint": "^7.13.0",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.3",
+    "mongodb-memory-server": "^6.9.2",
+    "nodemon": "^2.0.6",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.5.5"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "**/*.test.ts",
+      "**/*.spec.ts",
+      ".git",
+      "node_modules"
+    ],
+    "watch": [
+      "src"
+    ],
+    "exec": "npm start",
+    "ext": "ts"
+  },
+  "config": {
+    "mongodbMemoryServer": {
+      "downloadMirror": "http://downloads.mongodb.org",
+      "version": "latest"
+    }
+  }
+}

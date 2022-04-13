@@ -1,0 +1,18 @@
+version: "3.3"
+services:
+  api:
+    image: skynet.bah.com/microservices/$SERVICE:$IMAGE_VERSION
+    environment:
+      - NEWRELIC_ENABLED=true
+    ports:
+      - "8080:8080"
+    secrets:
+      - source: settings.json
+        target: /usr/local/facilities-api/dist/settings/settings.json
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+secrets:
+  settings.json:
+    file: settings.json

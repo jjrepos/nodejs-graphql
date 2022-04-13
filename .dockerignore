@@ -1,0 +1,14 @@
+.env
+.vscode
+.eslintrc.js
+npm-debug.log
+.gitignore
+.git
+dist/settings/settings.json
+src
+test
+Dockerfile
+Jenkinsfile
+jest.config.js
+run.sh
+tsconfig.json

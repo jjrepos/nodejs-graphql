@@ -1,0 +1,46 @@
+[
+    {
+        "name": "PRINTING",
+        "desc": "Printing"
+    },
+    {
+        "name": "FAX_MACHINE",
+        "desc": "Fax Machine"
+    },
+    {
+        "name": "TYPICAL_FLOOR_AMENITIES",
+        "desc": "Typical Floor Amenities"
+    },
+    {
+        "name": "BIKE_RACK",
+        "desc": "Bike Rack"
+    },
+    {
+        "name": "ELECTRIC_VEHICLE_CHARGING_STATION",
+        "desc": "Electric Vehicle Charging Station"
+    },
+    {
+        "name": "FITNESS_CENTER",
+        "desc": "Fitness Center"
+    },
+    {
+        "name": "MOTHERS_ROOM",
+        "desc": "Mother's Room"
+    },
+    {
+        "name": "QUIET_ROOM",
+        "desc": "Quiet Room"
+    },
+    {
+        "name": "SPIRITUAL_ROOM",
+        "desc": "Spiritual Room"
+    },
+    {
+        "name": "FOOD_SERVICES",
+        "desc": "Food Services"
+    },
+    {
+        "name": "ONSITE_FOOD_VENDOR",
+        "desc": "Onsite Food Vendor"
+    }
+]

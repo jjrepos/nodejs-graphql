@@ -1,0 +1,4833 @@
+[
+  
+  {
+    "name": "URBANDALE-100TH ST",
+    "_id": "IOWA",
+    "campusCode": "IOWA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "2900 100TH STREET",
+      "street2": null,
+      "city": "URBANDALE",
+      "stateCode": "IA",
+      "zipCode": "50322",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -93.755858,
+        41.62153
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  
+  {
+    "name": "MIAMI-EXEC",
+    "_id": "MIFL",
+    "campusCode": "MIFL",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "8300 NW 53RD ST.",
+      "street2": "SUITE 350-033",
+      "city": "MIAMI",
+      "stateCode": "FL",
+      "zipCode": "33166",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.331843,
+        25.82149
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HOUSTON-BAY AREA",
+    "_id": "HSTN",
+    "campusCode": "HSTN",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "2525 BAY AREA BLVD",
+      "street2": null,
+      "city": "HOUSTON",
+      "stateCode": "TX",
+      "zipCode": "77058",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -95.107784,
+        29.575725
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "AUSTIN-EXEC",
+    "_id": "AUBZ",
+    "campusCode": "AUBZ",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "701 BRAZOS STREET",
+      "street2": "SUITE 800",
+      "city": "AUSTIN",
+      "stateCode": "TX",
+      "zipCode": "78701",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740924,
+        30.269153
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "SANFRAN-EXEC 50",
+    "_id": "SANF",
+    "campusCode": "SANF",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "50 CALIFORNIA STREET",
+      "street2": "OFFICE NO. 1615",
+      "city": "SAN FRANCISCO",
+      "stateCode": "CA",
+      "zipCode": "94111",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -122.397274,
+        37.793608
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "CAPE CANAVRL-CHLNGER",
+    "_id": "CACV",
+    "campusCode": "CACV",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "445 CHALLENGER ROAD",
+      "street2": null,
+      "city": "CAPE CANAVERAL",
+      "stateCode": "FL",
+      "zipCode": "32920",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.612538,
+        28.404407
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "EL SEGUNDO-SEGUNDO",
+    "_id": "SEGC",
+    "campusCode": "SEGC",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "2310 E. EL SEGUNDO BLVD.",
+      "street2": null,
+      "city": "EL SEGUNDO",
+      "stateCode": "CA",
+      "zipCode": "90245",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.3823,
+        33.916304
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "OXNARD-EXEC",
+    "_id": "OXCA",
+    "campusCode": "OXCA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "300 E. ESPLANADE DRIVE",
+      "street2": "OFFICE NO. 932, 926",
+      "city": "OXNARD",
+      "stateCode": "CA",
+      "zipCode": "93036",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -119.173908,
+        34.229587
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "COLUMBUS-GENTIAN",
+    "_id": "FBGA",
+    "campusCode": "FBGA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "3100 GENTIAN BLVD.",
+      "street2": "SUITE 108A",
+      "city": "COLUMBUS",
+      "stateCode": "GA",
+      "zipCode": "31907",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.943161,
+        32.505774
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  
+  {
+    "name": "PENSACOLA-GARDEN ST",
+    "_id": "PENS",
+    "campusCode": "PENS",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "220 W GARDEN STREET",
+      "street2": null,
+      "city": "PENSACOLA",
+      "stateCode": "FL",
+      "zipCode": "32502",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -87.218795,
+        30.412445
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "COLO SPG-GETTNG HEIGHTS",
+    "_id": "GEHE",
+    "campusCode": "GEHE",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "7250 GETTING HEIGHTS",
+      "street2": null,
+      "city": "COLORADO SPRINGS",
+      "stateCode": "CO",
+      "zipCode": "80925",
+      "country": "USA"
+    },
+    "timeZone": "MST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.697616,
+        38.777944
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "CHANTLLY-GRN",
+    "_id": "CHAN",
+    "campusCode": "CHAN",
+    "facilityType": "Membership Agreement",
+    "hotelingSite": true,
+    "address": {
+      "street1": "15059 CONFERENCE CENTER DRIVE",
+      "street2": null,
+      "city": "CHANTILLY",
+      "stateCode": "VA",
+      "zipCode": "20151",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.455984,
+        38.88118
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  {
+    "name": "CLEARFIELD-LDND HILS",
+    "_id": "CLRF",
+    "campusCode": "CLRF",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1366 S. LEGEND HILLS DRIVE",
+      "street2": null,
+      "city": "CLEARFIELD",
+      "stateCode": "UT",
+      "zipCode": "84105",
+      "country": "USA"
+    },
+    "timeZone": "MST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -111.994471,
+        41.096022
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+ 
+  
+  {
+    "name": "MONTGOMERY-EXEC",
+    "_id": "MODA",
+    "campusCode": "MODA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "445 DEXTER AVENUE",
+      "street2": "SUITE 4050, OFFICES 401-408",
+      "city": "MONTGOMERY",
+      "stateCode": "AL",
+      "zipCode": "36104",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.302972,
+        32.377624
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "SUNNYVALE-MOFFET PRK",
+    "_id": "VALE",
+    "campusCode": "VALE",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "385 MOFFET PARK DRIVE",
+      "street2": null,
+      "city": "SUNNYVALE",
+      "stateCode": "CA",
+      "zipCode": "94089",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -122.015869,
+        37.405654
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "PICATINNY-NINTH AVE",
+    "_id": "DOVE",
+    "campusCode": "DOVE",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "356 NINTH AVENUE",
+      "street2": null,
+      "city": "PICATINNY",
+      "stateCode": "NJ",
+      "zipCode": "07806",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.58,
+        40.89
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "SEATTLE-OLIVE WAY",
+    "_id": "SEWA",
+    "campusCode": "SEWA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "720 OLIVE WAY",
+      "street2": "SUITE 910, 1250",
+      "city": "SEATTLE",
+      "stateCode": "WA",
+      "zipCode": "98101",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -122.334481,
+        47.613909
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "OXON HILL-POTOMAC",
+    "_id": "OHMD",
+    "campusCode": "OHMD",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "6710 OXON HILL ROAD",
+      "street2": null,
+      "city": "OXON HILL",
+      "stateCode": "MD",
+      "zipCode": "20745",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.002829,
+        38.797848
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "CALIFORNIA-AIRPRT DR",
+    "_id": "CAMD",
+    "campusCode": "CAMD",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "44423 AIRPORT RD",
+      "street2": null,
+      "city": "CALIFORNIA",
+      "stateCode": "MD",
+      "zipCode": "20619",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.539543,
+        38.312672
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  {
+    "name": "CHANTLLY-STNCRFT",
+    "_id": "CRFT",
+    "campusCode": "CRFT",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "4801 STONECROFT BOULEVARD",
+      "street2": null,
+      "city": "CHANTILLY",
+      "stateCode": "VA",
+      "zipCode": "20151",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.461492,
+        38.883245
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "SANFRAN-EXEC 44",
+    "_id": "SFTE",
+    "campusCode": "SFTE",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "44 TEHAMA STREET",
+      "street2": "SUITE 305 AND 415",
+      "city": "SAN FRANCISCO",
+      "stateCode": "CA",
+      "zipCode": "94105",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -122.396412,
+        37.787372
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NEWPORT-THIRD ST",
+    "_id": "NEWP",
+    "campusCode": "NEWP",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "221 THIRD STREET",
+      "street2": "FLOOR 6",
+      "city": "NEWPORT",
+      "stateCode": "RI",
+      "zipCode": "02840",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -71.320458,
+        41.505962
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "PANMACTY-THOMAS1",
+    "_id": "PNCY",
+    "campusCode": "PNCY",
+    "facilityType": "Virtual_Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "1300 THOMAS DRIVE",
+      "street2": null,
+      "city": "PANAMA CITY BEACH",
+      "stateCode": "FL",
+      "zipCode": "32408",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -85.759317,
+        30.171515
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "PANMACTY-THOMAS2",
+    "_id": "PNC2",
+    "campusCode": "PNC2",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1300 THOMAS DRIVE",
+      "street2": null,
+      "city": "PANAMA CITY BEACH",
+      "stateCode": "FL",
+      "zipCode": "32408",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -85.759317,
+        30.171515
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "JACKSNVL-EXEC",
+    "_id": "JKNC",
+    "campusCode": "JKNC",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "200 VALENCIA DRIVE",
+      "street2": "OFFICE NO. 102,103, 105, 117 AND 118",
+      "city": "JACKSONVILLE",
+      "stateCode": "NC",
+      "zipCode": "28546",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.378249,
+        34.760049
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "O'FALLON-WELSLEY",
+    "_id": "OFAL",
+    "campusCode": "OFAL",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1003 E WESLEY DRIVE",
+      "street2": null,
+      "city": "O'FALLON",
+      "stateCode": "IL",
+      "zipCode": "62269",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -89.89229,
+        38.59884
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "AUGUSTA-WHEELER",
+    "_id": "AUGA",
+    "campusCode": "AUGA",
+    "facilityType": "Parking",
+    "hotelingSite": true,
+    "address": {
+      "street1": "3633 WHEELER ROAD",
+      "street2": null,
+      "city": "AUGUSTA",
+      "stateCode": "GA",
+      "zipCode": "30909",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -82.088984,
+        33.48258
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "RADCLIFF-WILSON DR",
+    "_id": "RADC",
+    "campusCode": "RADC",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1003-D N. WILSON ROAD",
+      "street2": null,
+      "city": "RADCLIFF",
+      "stateCode": "KY",
+      "zipCode": "40160",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -85.943747,
+        37.851532
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ABUDHABI-ALKHATEM",
+    "_id": "ALKH",
+    "campusCode": "ALKH",
+    "facilityType": "Storage",
+    "hotelingSite": true,
+    "address": {
+      "street1": "AL KHATEM TOWER, ABU DHABI GLOBAL MARKET",
+      "street2": null,
+      "city": "ABU DHABI",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "UAE"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        31.201,
+        29.33029
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "RIYADH-AL AQIQ",
+    "_id": "RIYA",
+    "campusCode": "RIYA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "3633 MUHAMMAD IBN DAKHIL, AL AQIQ",
+      "street2": null,
+      "city": "RIYADH",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "SAUDI ARABIA"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        46.76381,
+        24.64918
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NEW CAIRO-STREET 90",
+    "_id": "ALEG",
+    "campusCode": "ALEG",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "SECTION 1 - STREET 90 - NORTH",
+      "street2": "OFFICE NO. 466",
+      "city": "NEW CAIRO",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "EGYPT"
+    },
+    "timeZone": "EET",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        31.48925,
+        30.03067
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "DOHA-MARRIOTT",
+    "_id": "MMDQ",
+    "campusCode": "MMDQ",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "411 PENTHOUSE, OMAR AL MUKHART STREET",
+      "street2": null,
+      "city": "DOHA",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "QATAR"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        51.51933,
+        25.33359
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "JAKARTA-ANZ TWR",
+    "_id": "JAKR",
+    "campusCode": "JAKR",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "JALAN JEND SUDIRMAN KAV. 33 A",
+      "street2": "23/F, SUITE 50",
+      "city": "JAKARTA",
+      "stateCode": null,
+      "zipCode": "10220",
+      "country": "INDONESIA"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        106.82773,
+        -6.21538
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "KABUL-WAZIR AKBAR",
+    "_id": "AFKB",
+    "campusCode": "AFKB",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "HOUSE 1063, LANE 2, STREET15, WAZIR AKBA",
+      "street2": "WAZIR AKBAR KHAN",
+      "city": "KABUL",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "AFGHANISTAN"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        121.55676,
+        25.03493
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "OKINAWA-TOWA BLDG",
+    "_id": "OKJA",
+    "campusCode": "OKJA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "IHEI 411-3",
+      "street2": "CHATAN-CHO, ROOM NO. 1 & 6",
+      "city": "NAKAGAMI-GUN, OKINAWA",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "JAPAN"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -99.066067,
+        39.390897
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "RIYADH-RESIDENTIAL",
+    "_id": "RICR",
+    "campusCode": "RICR",
+    "facilityType": "Residential",
+    "hotelingSite": false,
+    "address": {
+      "street1": "CALIFORNIA RESORT",
+      "street2": null,
+      "city": "RIYADH",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "SAUDI ARABIA"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        48.93956,
+        25.89228
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "SINGAPORE-MARINA 8",
+    "_id": "SNGP",
+    "campusCode": "SNGP",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "8 MARINA VIEW",
+      "street2": "ASIA SQUARE TOWER 1, UNIT NO: 13-03",
+      "city": "SINGAPORE",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "SINGAPORE"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.85134,
+        1.27895
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "STUTTGART-BUS CNTR",
+    "_id": "STGT",
+    "campusCode": "STGT",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "CURIESTRASSE 2",
+      "street2": "OFFICE NOS. 401-415",
+      "city": "STUTTGART",
+      "stateCode": "BADEN-WURTTEMBERG",
+      "zipCode": "70563",
+      "country": "GERMANY"
+    },
+    "timeZone": "CET",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        9.11272,
+        48.73791
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HUNTSVLE-BRIDGE ST",
+    "_id": "ALHU",
+    "campusCode": "ALHU",
+    "facilityType": "Warehouse",
+    "hotelingSite": true,
+    "address": {
+      "street1": "310 THE BRIDGE STREET",
+      "street2": null,
+      "city": "HUNTSVILLE",
+      "stateCode": "AL",
+      "zipCode": "35806",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.673106,
+        34.715932
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  
+  
+  {
+    "name": "COLUMBIA-ONECOLUMBIA",
+    "_id": "COMD",
+    "campusCode": "COMD",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "10025 GOVERNOR WARFIELD PARKWAY",
+      "street2": null,
+      "city": "COLUMBIA",
+      "stateCode": "MD",
+      "zipCode": "21044",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.860565,
+        39.220363
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "BLUEASH-LAKE FOREST",
+    "_id": "BASH",
+    "campusCode": "BASH",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "4555 LAKE FOREST DRIVE",
+      "street2": "SUITE 200",
+      "city": "BLUE ASH",
+      "stateCode": "OH",
+      "zipCode": "45242",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.381132,
+        39.254509
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "DUBAI-PRECINCT",
+    "_id": "DUBA",
+    "campusCode": "DUBA",
+    "facilityType": "Data Center",
+    "hotelingSite": false,
+    "address": {
+      "street1": "LEVEL 4, GATE PRECINCT BUILDING 3",
+      "street2": "405, 406",
+      "city": "DUBAI",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "UAE"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -1.60303,
+        55.15211
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HANAHAN-EXEC",
+    "_id": "HNBC",
+    "campusCode": "HNBC",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1007 BANKTON CIRCLE",
+      "street2": "BERKELEY",
+      "city": "HANAHAN",
+      "stateCode": "SC",
+      "zipCode": "29410",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -79.98871,
+        32.912567
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ALBUQURQ-AMER PKWY 6501",
+    "_id": "ALQU",
+    "campusCode": "ALQU",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "6501 AMERICAS PARKWAY NE",
+      "street2": "FLOOR 3, SUITE 330",
+      "city": "ALBUQUERQUE",
+      "stateCode": "NM",
+      "zipCode": "87110",
+      "country": "USA"
+    },
+    "timeZone": "MST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -106.571883,
+        35.101214
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "BEIRUT-ONE ALLENBY",
+    "_id": "BELE",
+    "campusCode": "BELE",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "PLOT NO. 1, PORT OF BEIRUT - ONE ALLENB",
+      "street2": "FLOOR 9 AND 10",
+      "city": "BEIRUT",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "LEBANON"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        35.50501,
+        33.89922
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ALHAMRIYA-BAHRAIN",
+    "_id": "BAHA",
+    "campusCode": "BAHA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "ROAD 1457, BLOCK 1014",
+      "street2": "UNIT 11",
+      "city": "HAMALA",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "BAHRAIN"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        50.52133,
+        26.20691
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HUNTINGDON-EXEC",
+    "_id": "UKEX",
+    "campusCode": "UKEX",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "CASTLE HILL HOUSE",
+      "street2": "HIGH STREET, SUITE G01 & G02",
+      "city": "HUNTINGDON",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "UNITED KINGDOM"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.18387,
+        52.32731
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ABUDHABI-ALBATEEN",
+    "_id": "ADIB",
+    "campusCode": "ADIB",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "AL BATEEN TOWER C6 BAINUNAH, STREET 34",
+      "street2": "ADIB BLDG, OFFICE NO. 210",
+      "city": "ABU DHABI",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "UAE"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.3438,
+        24.4587
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "BOSSIER-EXEC",
+    "_id": "BCLA",
+    "campusCode": "BCLA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "6300 EAST TEXAS",
+      "street2": "SUITE 220",
+      "city": "BOSSIER CITY",
+      "stateCode": "LA",
+      "zipCode": "71111",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -93.643629,
+        32.542598
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "DENVER-EXEC",
+    "_id": "DECO",
+    "campusCode": "DECO",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1644 PLATTE STREET",
+      "street2": "SUITE 410",
+      "city": "DENVER",
+      "stateCode": "CO",
+      "zipCode": "80202",
+      "country": "USA"
+    },
+    "timeZone": "MST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -105.007382,
+        39.757942
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "DURHAM-EXEC",
+    "_id": "DURA",
+    "campusCode": "DURA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "2530 MERIDIAN PARKWAY",
+      "street2": "OFFICE NO. 4028, FLOOR 4",
+      "city": "DURHAM",
+      "stateCode": "NC",
+      "zipCode": "27713",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.899703,
+        35.910751
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "FREDRCKBRG-SHANNON",
+    "_id": "FRDB",
+    "campusCode": "FRDB",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "3509 SHANNON PARK DRIVE",
+      "street2": "SUITE 111, 115",
+      "city": "FREDERICKSBURG",
+      "stateCode": "VA",
+      "zipCode": "22408",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.451773,
+        38.266024
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MANILA-EXEC",
+    "_id": "TGMM",
+    "campusCode": "TGMM",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "CRESCENT PARK WEST, NET LIMA 5TH AVE",
+      "street2": "COR 26TH STREET E-SQ, UNIT 10",
+      "city": "BONIFACIO GLOBAL CITY, TAGUIG",
+      "stateCode": null,
+      "zipCode": "1634",
+      "country": "PHILIPPINES"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -99.066067,
+        39.390897
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "RUCKSVLL-COMMERCE",
+    "_id": "RUSV",
+    "campusCode": "RUSV",
+    "facilityType": "Warehouse",
+    "hotelingSite": false,
+    "address": {
+      "street1": "109 COMMERCE DRIVE",
+      "street2": null,
+      "city": "RUCKERSVILLE",
+      "stateCode": "VA",
+      "zipCode": "22968",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -78.371308,
+        38.225541
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "SEATTLE-EXEC",
+    "_id": "SWCT",
+    "campusCode": "SWCT",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "701 5TH AVENUE",
+      "street2": "FLOOR 42",
+      "city": "SEATTLE",
+      "stateCode": "WA",
+      "zipCode": "98104",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -122.330213,
+        47.604824
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NEWPORTNEWS-EXEC",
+    "_id": "NNWV",
+    "campusCode": "NNWV",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "11815 FOUNTAIN WAY",
+      "street2": "SUITE 300, OFFICE NO. 337 AND 341",
+      "city": "NEWPORT NEWS",
+      "stateCode": "VA",
+      "zipCode": "23606",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -76.472336,
+        37.085866
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "LASVEGAS-EXEC",
+    "_id": "LVNF",
+    "campusCode": "LVNF",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "400 S. 4TH STREET",
+      "street2": "SUITE 500, OFFICE NO. 529, 532, 537 & 53",
+      "city": "LAS VEGAS",
+      "stateCode": "NV",
+      "zipCode": "89101",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -115.144303,
+        36.165906
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MCLEAN-WEWORKS 2",
+    "_id": "TYWW",
+    "campusCode": "TYWW",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1775 TYSONS BLVD, WEWORK TYSON",
+      "street2": "FLOOR 6",
+      "city": "MCLEAN",
+      "stateCode": "VA",
+      "zipCode": "22102",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.221937,
+        38.923483
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "SPOKANE-EXEC",
+    "_id": "SWWF",
+    "campusCode": "SWWF",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "601 W 1ST AVENUE",
+      "street2": "SUITE 1400",
+      "city": "SPOKANE",
+      "stateCode": "WA",
+      "zipCode": "99201",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -117.421711,
+        47.65659
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ALBANY-PINE AVE",
+    "_id": "ALBN",
+    "campusCode": "ALBN",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "415 PINE AVENUE",
+      "street2": "SUITE 102, FLOOR 01",
+      "city": "ALBANY",
+      "stateCode": "GA",
+      "zipCode": "31701",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.157299,
+        31.57847
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "STLOUIS-EXEC",
+    "_id": "SLDA",
+    "campusCode": "SLDA",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "4220 DUNCAN AVENUE",
+      "street2": null,
+      "city": "ST. LOUIS",
+      "stateCode": "MO",
+      "zipCode": "63110",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -90.24918,
+        38.634803
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "BETHESDA-SANGAMORE RD",
+    "_id": "BTXS",
+    "campusCode": "BTXS",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "4701 SANGAMORE ROAD",
+      "street2": "SUITE 100N",
+      "city": "BETHESDA",
+      "stateCode": "MD",
+      "zipCode": "20816",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.120438,
+        38.950126
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  {
+    "name": "ODON-EXEC",
+    "_id": "ODON",
+    "campusCode": "ODON",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "13598 E. WESTGATE DRIVE",
+      "street2": "SUITE 213",
+      "city": "ODON",
+      "stateCode": "IN",
+      "zipCode": "47562",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.971031,
+        38.822204
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ROME-HILL RD",
+    "_id": "RMNY",
+    "campusCode": "RMNY",
+    "facilityType": "Storage",
+    "hotelingSite": false,
+    "address": {
+      "street1": "245 HILL ROAD",
+      "street2": "GRIFFISS PROFESSIONAL COMPLEX-BLDG 4",
+      "city": "ROME",
+      "stateCode": "NY",
+      "zipCode": "45324",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.418768,
+        43.219698
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  
+  
+  {
+    "name": "CHARLOTTE-EXEC2",
+    "_id": "TYCH",
+    "campusCode": "TYCH",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "101 N. TRYON STREET",
+      "street2": "SUITE 103",
+      "city": "CHARLOTTE",
+      "stateCode": "NC",
+      "zipCode": "28246",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.84301,
+        35.22723
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "LONDON-EXEC",
+    "_id": "UKSU",
+    "campusCode": "UKSU",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1 FINSBURY AVENUE",
+      "street2": "STOREY UNIT 2F",
+      "city": "BROADGATE, LONDON",
+      "stateCode": null,
+      "zipCode": "EC2M 2PG",
+      "country": "UNITED KINGDOM"
+    },
+    "timeZone": "EET",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -0.08519,
+        51.51941
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "BETHESDA-BETHESDA AVE",
+    "_id": "BETH",
+    "campusCode": "BETH",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "4747 BETHESDA AVENUE",
+      "street2": null,
+      "city": "BETHESDA",
+      "stateCode": "MD",
+      "zipCode": "20814",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -77.094332,
+        38.981002
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "AURORA-LEWISTON ST2",
+    "_id": "COLW",
+    "campusCode": "COLW",
+    "facilityType": "Off",
+    "hotelingSite": true,
+    "address": {
+      "street1": "3855 LEWISTON STREET",
+      "street2": "SUITE 200 - THREE GATEWAY CENTER",
+      "city": "AURORA",
+      "stateCode": "CO",
+      "zipCode": "80011",
+      "country": "USA"
+    },
+    "timeZone": "MST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -104.799542,
+        39.770894
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "LOMPOC-EXEC",
+    "_id": "LPMK",
+    "campusCode": "LPMK",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "1010 N H STREET",
+      "street2": "LAUNCHPAD",
+      "city": "LOMPOC",
+      "stateCode": "CA",
+      "zipCode": "93436",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -120.45772,
+        34.653621
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "BEAVERCREEK-PENTGN2",
+    "_id": "DOAH",
+    "campusCode": "DOAH",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "3800 PENTAGON BOULEVARD",
+      "street2": "SUITE 130",
+      "city": "BEAVERCREEK",
+      "stateCode": "OH",
+      "zipCode": "45431",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.055591,
+        39.770752
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HAGUE SD-EXEC",
+    "_id": "HGNT",
+    "campusCode": "HGNT",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "WILHELMINA VAN PRUISENWEG 104",
+      "street2": "UNIT 629",
+      "city": "HAGUE",
+      "stateCode": null,
+      "zipCode": "2595",
+      "country": "NETHERLANDS"
+    },
+    "timeZone": "CET",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        4.3413,
+        52.07903
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "PYEONGTAEK-SI",
+    "_id": "KRSI",
+    "campusCode": "KRSI",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "40-15, SINHEUNGBUKRO29BEON-GIL",
+      "street2": "SUITE 202",
+      "city": "PYEONGTAEK SI",
+      "stateCode": null,
+      "zipCode": "17977",
+      "country": "REPUBLIC OF KOREA"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -10.14164,
+        52.14347
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ROME-OTIS",
+    "_id": "OTRO",
+    "campusCode": "OTRO",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "99 OTIS STREET",
+      "street2": "SUITE A AND B",
+      "city": "ROME",
+      "stateCode": "NY",
+      "zipCode": "13441",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -75.406946,
+        43.221958
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HONOLULU-BISHOP 999",
+    "_id": "HBSW",
+    "campusCode": "HBSW",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "999 BISHOP STREET",
+      "street2": "SUITE 2400",
+      "city": "HONOLULU",
+      "stateCode": "HI",
+      "zipCode": "96813",
+      "country": "USA"
+    },
+    "timeZone": "HST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -157.861544,
+        21.308489
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "ROCKLIN-EXEC",
+    "_id": "ROX1",
+    "campusCode": "ROX1",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "6518 LONETREE BLVD.",
+      "street2": "SUITE 156",
+      "city": "ROCKLIN",
+      "stateCode": "CA",
+      "zipCode": "95765",
+      "country": "USA"
+    },
+    "timeZone": "PST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -121.295257,
+        38.804385
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "O'FALLON-REGENCY",
+    "_id": "OFRE",
+    "campusCode": "OFRE",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "475 REGENCY PARK",
+      "street2": "SUITE 300",
+      "city": "O'FALLON",
+      "stateCode": "IL",
+      "zipCode": "62269",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -89.929747,
+        38.579555
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "KNOXVILLE-EXEC",
+    "_id": "KNX1",
+    "campusCode": "KNX1",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "123 CENTER PARK DRIVE",
+      "street2": "SUITE 303",
+      "city": "KNOXVILLE",
+      "stateCode": "TN",
+      "zipCode": "37922",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -84.121721,
+        35.905499
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "LEAVENWORTH-4TH ST",
+    "_id": "LETH",
+    "campusCode": "LETH",
+    "facilityType": "Office",
+    "hotelingSite": true,
+    "address": {
+      "street1": "1100 N. 4TH STREET",
+      "street2": null,
+      "city": "LEAVENWORTH",
+      "stateCode": "KS",
+      "zipCode": "66048",
+      "country": "USA"
+    },
+    "timeZone": "CST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -94.915861,
+        39.327941
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HUNTSVLE-STOVEHOUSE",
+    "_id": "ALHG",
+    "campusCode": "ALHG",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "3414 GOVERNORS DR",
+      "street2": "SUITE 160",
+      "city": "HUNTSVILLE",
+      "stateCode": "AL",
+      "zipCode": "35805",
+      "country": "USA"
+    },
+    "timeZone": "EST",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -86.612754,
+        34.720106
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "RIYADH-GRNADA",
+    "_id": "GPSU",
+    "campusCode": "GPSU",
+    "facilityType": "Office",
+    "hotelingSite": false,
+    "address": {
+      "street1": "7TH FLOOR, A4 TOWER",
+      "street2": null,
+      "city": "RIYADH",
+      "stateCode": null,
+      "zipCode": null,
+      "country": "SAUDI ARABIA"
+    },
+    "timeZone": "GMT",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        44.64206,
+        25.62862
+      ]
+    },
+    "officeHours": [
+      {
+        "day": "Sunday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Monday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Friday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "openTime": "6:00 AM",
+        "closeTime": "10:00 PM"
+      }
+    ]
+  }
+]

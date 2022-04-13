@@ -1,0 +1,241 @@
+[
+    {    
+        "facility": "HDPW",
+        "type": "CONCIERGE_SERVICE",
+        "desc": "For HVAC outside these hours, contact the Help Desk at 877-927-8278",
+        "poc": null,
+        "email": "Hoteling_HerndonParkway@bah.com",
+        "phone": "571-346-4000",
+        "url": null,
+        "room": null,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "8:00 AM",
+                "closeTime": "1:00 PM"
+            }
+        ]
+    },
+
+    {    
+        "facility": "HDPW",
+        "type": "RECEPTION_SERVICE",
+        "desc": "",
+        "poc": null,
+        "email": "Hoteling_HerndonParkway@bah.com",
+        "phone": "571-346-4000",
+        "url": null,
+        "room": null,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            }
+        ]
+    },
+
+    {    
+        "facility": "HDPW",
+        "type": "CLEANING_SERVICE",
+        "desc": "Provided by property management. Cleaning for all unlocked areas at night. Contact the Help Desk, at 877-927-8278, for additional services",
+        "poc": null,
+        "email": null,
+        "phone": "877-927-8278",
+        "url": null,
+        "room": null,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "7:30 AM",
+                "closeTime": "4:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            }
+        ]
+    },
+
+    {    
+        "facility": "HDPW",
+        "type": "RECYCLING_SERVICE",
+        "desc": "Recycle containers for plastic, glass, and aluminum cans are in each kitchen. Paper should be recycled in the P-Bins in the copy rooms.",
+        "poc": null,
+        "email": null,
+        "phone": null,
+        "url": null,
+        "room": null,
+        "operationalHours": null
+    },
+    {    
+        "facility": "HDPW",
+        "type": "ACCESS_CONTROL_OFFICE_SERVICE",
+        "desc": "Via Booz Allen Hamilton badge. If not already activated for site, see 5th floor receptionist",
+        "poc": null,
+        "email": null,
+        "phone": null,
+        "url": null,
+        "room": null,
+        "operationalHours": null
+    },
+
+    {    
+        "facility": "HDPW",
+        "type": "GREEN_OFFICE_TEAM_SERVICE",
+        "desc": "The Herndon Parkway Green Office Team is led by Jen Neisser. For additional information, or to join or establish a green team for your office, please visit sustainability.bah.com",
+        "poc": "Jen Neisser",
+        "email": "sustainability.bah.com",
+        "phone": null,
+        "url": null,
+        "room": null,
+        "operationalHours": null
+    },
+
+    {    
+        "facility": "HDPW",
+        "type": "FACILITY_MANAGEMENT_SERVICE",
+        "desc": "POC for facility operations: liaison for property management to conduct general facility maintenance and repairs (e.g., heating, ventilation, and air conditioning, HVAC, and electrical). Coordinate with various service vendor to schedule housekeeping, installations, carpet cleaning, provide coffee, water, and vending service and maintenance. Building/Facilities Support contact the Help Desk at 877-927-8278.",
+        "poc": "Scott McCloud",
+        "email": null,
+        "phone": "571-334-9449",
+        "url": null,
+        "room": null,
+        "operationalHours": null
+    },
+
+    {    
+        "facility": "HDPW",
+        "type": "DISTRIBUTION_SERVICE",
+        "desc": "Located on the 1st floor. Closed 1 hour for lunch. Staff will receive an e-mail notification when mail is received.",
+        "poc": null,
+        "email": "OF_Herndon_Parkway_Distribution@bah.com",
+        "phone": "571-346-5000",
+        "url": null,
+        "room": null,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "8:00 AM",
+                "closeTime": "5:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "8:00 AM",
+                "closeTime": "5:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "8:00 AM",
+                "closeTime": "5:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "8:00 AM",
+                "closeTime": "5:30 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "8:00 AM",
+                "closeTime": "5:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "0:00 AM",
+                "closeTime": "0:00 PM"
+            }
+        ]
+    }
+
+]

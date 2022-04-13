@@ -1,0 +1,22 @@
+[
+    {
+        "name": "PARKING",
+        "desc": "Parking"
+    },
+    {
+        "name": "VISITOR_PARKING",
+        "desc": "Visitor Parking"
+    },
+    {
+        "name": "METRO",
+        "desc": "Metro locations"
+    },
+    {
+        "name": "SHUTTLE",
+        "desc": "Shuttle Timings"
+    },
+    {
+        "name": "BUS",
+        "desc": "Bus locations"
+    }
+]

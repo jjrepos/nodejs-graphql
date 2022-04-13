@@ -1,0 +1,629 @@
+[
+    {
+        "desc": "Located in the front of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Vistor parking is not available on site. There are paid parking garages available.",
+        "url": null,
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located at the rear of the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located in the rear of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located at the rear of the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": "www.wmata.com/service/rail",
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "5:00 AM",
+                "closeTime": "2:00 AM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "7:00 AM",
+                "closeTime": "2:00 AM"
+            }
+        ]
+    },
+    {
+        "desc": "Located at the rear of the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": "www.wmata.com/service/bus",
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located in the front of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located 3 blocks from the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": "www.wmata.com/service/rail",
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "5:00 AM",
+                "closeTime": "2:00 AM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "7:00 AM",
+                "closeTime": "2:00 AM"
+            }
+        ]
+    },
+    {
+        "desc": "Located in the rear of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located at the rear of the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": "www.wmata.com/service/rail",
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "5:00 AM",
+                "closeTime": "2:00 AM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "7:00 AM",
+                "closeTime": "2:00 AM"
+            }
+        ]
+    },
+    {
+        "desc": "Located at the rear of the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": "www.wmata.com/service/bus",
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "5:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located in the front of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located in the front of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located in the front of the building",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": null,
+        "onsite": true,
+        "operationalHours": [
+            {
+                "day": "Monday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "6:00 AM",
+                "closeTime": "10:00 PM"
+            }
+        ]
+    },
+    {
+        "desc": "Located 3 blocks from the facility",
+        "email": "facilities@bah.com",
+        "phone": "571-390-0808",
+        "url": "www.wmata.com/service/rail",
+        "onsite": false,
+        "operationalHours": [
+            {
+                "day": "Sunday",
+                "openTime": "8:00 AM",
+                "closeTime": "11:00 PM"
+            },
+            {
+                "day": "Monday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Tuesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Wednesday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Thursday",
+                "openTime": "5:00 AM",
+                "closeTime": "12:00 AM"
+            },
+            {
+                "day": "Friday",
+                "openTime": "5:00 AM",
+                "closeTime": "2:00 AM"
+            },
+            {
+                "day": "Saturday",
+                "openTime": "7:00 AM",
+                "closeTime": "2:00 AM"
+            }
+        ]
+    }
+]
